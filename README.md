@@ -3,7 +3,7 @@
 <p><em>Computer Science student at <a href="https://www.unochapeco.edu.br/">Unochapecó</a><img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="30"> 
 </em></p>
 
-![linkedin]
+[![Linkedin: iancmilan](https://img.shields.io/badge/-iancmilan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iancmilan)](https://www.linkedin.com/in/iancmilan/)
 
 ### About me
 
