@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Ian! <img src="https://media.giphy.com/media/l49JSBc0ragzmcsko/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="230">
-<p><em>Computer Science student at <a href="https://www.unochapeco.edu.br/">Unochapecó</a><img src="https://media.giphy.com/media/h4TP7zsNRxcXVG9L7T/giphy.gif" width="30"> 
+<p><em>Computer Science student at <a href="https://www.unochapeco.edu.br/">Unochapecó</a><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: iancmilan](https://img.shields.io/badge/-iancmilan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iancmilan)](https://www.linkedin.com/in/iancmilan/)
