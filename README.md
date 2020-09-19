@@ -15,7 +15,7 @@ const ian = {
       email: "iancmilan@unochapeco.edu.br"
     }, 
     code: ["Javascript", "Typescript", "Ruby", "C++"],
-    techs: {
+    technologies: {
         mobile: ["React Native"],
         frontEnd: ["React", "Angular"],
         backEnd: ["Node.js", "Ruby on Rails"],
