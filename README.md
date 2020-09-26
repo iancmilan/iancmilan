@@ -17,7 +17,7 @@ const ian = {
     code: ["Javascript", "Typescript", "Ruby", "C++"],
     technologies: {
         mobile: ["React Native"],
-        frontEnd: ["React", "Angular"],
+        frontEnd: ["ReactJS", "Angular"],
         backEnd: ["Node.js", "Ruby on Rails"],
         databases: ["PostgreSQL", "SQLite"]
     },
