@@ -11,7 +11,7 @@
 const ian = {
     personal: {
       name: "Ian Carlos Milan",
-      city: "Chapecó, Brazil",
+      city: "Chapecó, Santa Catarina, Brazil",
       email: "iancmilan@unochapeco.edu.br"
     }, 
     code: ["Javascript", "Typescript", "Ruby", "C++"],
