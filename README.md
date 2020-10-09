@@ -20,7 +20,7 @@ const ian = {
         frontEnd: ["ReactJS", "Angular"],
         backEnd: ["Node.js", "Ruby on Rails"],
         databases: ["PostgreSQL", "SQLite"]
-    },
+    }
 };
 ```
 
