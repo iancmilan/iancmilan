@@ -21,7 +21,6 @@ const ian = {
         backEnd: ["Node.js", "Ruby on Rails"],
         databases: ["PostgreSQL", "SQLite"]
     },
-    currentProject: "I'm developing an app for Sistema do Perito using React Native."
 };
 ```
 
