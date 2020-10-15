@@ -1,11 +1,8 @@
-<h2> Hi there, I'm Ian! <img src="https://media.giphy.com/media/l49JSBc0ragzmcsko/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="230">
-<p><em>Computer Science student at <a href="https://www.unochapeco.edu.br/">Unochapecó</a><img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> 
-</em></p>
+### Ian Carlos Milan
 
 [![Linkedin: iancmilan](https://img.shields.io/badge/-iancmilan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iancmilan)](https://www.linkedin.com/in/iancmilan/)
 
-### About me
+Computer Science student at [Unochapeco].
 
 ```javascript
 const ian = {
@@ -28,6 +25,7 @@ const ian = {
 
 <!-- Links -->
 [linkedin]: https://img.shields.io/badge/-iancmilan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iancmilan/
+[Unochapeco]: https://www.unochapeco.edu.br/
 
 <!--
 **iancmilan/iancmilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
