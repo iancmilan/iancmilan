@@ -1,6 +1,6 @@
 ### Ian Carlos Milan
 
-[![Linkedin: iancmilan](https://img.shields.io/badge/-iancmilan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iancmilan)](https://www.linkedin.com/in/iancmilan/)
+[![Linkedin: iancmilan](https://img.shields.io/badge/-iancmilan-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iancmilan)](https://www.linkedin.com/in/iancmilan/)
 
 Computer Science student at [Unochapeco].
 
