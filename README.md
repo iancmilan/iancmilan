@@ -12,12 +12,11 @@ const ian = {
       location: "Chapecó, Santa Catarina, Brazil",
       email: "iancmilan@unochapeco.edu.br"
     }, 
-    code: ["Javascript", "Typescript", "Ruby", "C++"],
+    code: ["Javascript", "Typescript"],
     technologies: {
         mobile: ["React Native"],
-        frontEnd: ["ReactJS", "Angular"],
-        backEnd: ["Node.js", "Ruby on Rails"],
-        databases: ["PostgreSQL", "SQLite"]
+        frontEnd: ["ReactJS"],
+        backEnd: ["Node.js"]
     }
 };
 ```
