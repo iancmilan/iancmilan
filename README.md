@@ -17,7 +17,7 @@ const ian = {
         frontEnd: ["ReactJS"],
         backEnd: ["Node.js"]
     }
-};
+}
 ```
 
 
